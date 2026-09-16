@@ -1,2 +1,0 @@
-python-telegram-bot>=21.0,<22.0
-firebase-admin>=6.5.0,<7.0
